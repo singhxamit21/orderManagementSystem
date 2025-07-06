@@ -16,7 +16,7 @@ import {
 import { dummyOrders, dummySkus } from "./data/dummySkus";
 import OrderFormModal from "./modals/OrderFormModal";
 import ConformationModal from "./modals/ConformationModal";
-import GenericToast from "./Toast/genericToast";
+import GenericToast from "./Toast/GenericToast";
 import GenericTable from "./GenericTable";
 import {
     DEFAULT_STATUS,
