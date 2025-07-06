@@ -202,7 +202,7 @@ export default function MainContainer() {
         <Container fluid className="py-3">
              <MemoizedPageTitle
                 title="SKU Management"
-                subtitle="Track and manage customer orders efficiently"
+                subtitle="Track and manage customer orders efficiently."
             />
             <Row className="gy-2 mb-3">
                 <Col sm={3}>
